@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joel-Roy&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-![Zek3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joel-Roy&show_icons=true&theme=tokyonight)
+![Joel-Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joel-Roy&show_icons=true&theme=tokyonight)
   
